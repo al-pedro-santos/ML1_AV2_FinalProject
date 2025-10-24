@@ -6,8 +6,8 @@ Repositório para realização do projeto final da disciplina de Aprendizado de 
 * Bruno Pereira de Paula
 * Isabelli Cristhini da Silva
 * Marcos Abílio Esmeraldo Melo
-* Pedro Miguel Rocha Santos
-* Pedro Rodrigues Alberti
 * Pedro Henrique Barbosa da Silva
 * Pedro Henrique dos Reis Porto
+* Pedro Miguel Rocha Santos
+* Pedro Rodrigues Alberti
 * Vinicius Glowacki Maciel
