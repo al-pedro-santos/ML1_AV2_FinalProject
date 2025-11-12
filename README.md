@@ -98,11 +98,16 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 
 #### Resultados - clássificação dependentes
 
-| Modelo | aaa | aaa | aaaa |
-|:--|:--:|:--:|:--:|
-| LDA | – | – | – |
-| QDA | – | – | – |
-| SVM | – | – | – |
+#### Resultados - clássificação dependentes
+
+| Modelo | Acurácia | Precisão | Recall | F1-score |
+|:--|:--:|:--:|:--:|:--:|
+| LDA | **0.5909** | – | – | – |
+| QDA | 0.5904 | – | – | – |
+
+| SVM (Linear) | 0.1043 | 0.53 | 0.10 | 0.04 |
+| SVM (Gaussiano) | 0.2688 | 0.47 | 0.27 | 0.29 |
+
 
 ---
 
