@@ -99,7 +99,7 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 | Probit GM(4) | 0.040390 | 0.004461 | 0.797665 | 0.7640 |
 | Probit GM(7) | **0.038759** | **0.004155** | 0.813527 | 0.7648 |
 | Isolation Forest | 0.094175| 0.015732 |0.727324 | 0.7860 |
-| Decision Tree | 0.263811 | 0.103721 |  |0.7999 |
+| Decision Tree | 0.263811 | 0.103721 | 0.8492 |0.7999 |
 | Random Forest | 0.230091 | 0.076918 | **0.8604** | **0.8619** |
 | Histogram GB | 0.039583 | 0.005881 | 0.8293 |0.8232 |
 
