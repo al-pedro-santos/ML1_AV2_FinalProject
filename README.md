@@ -113,6 +113,8 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 | QDA | – | – | – |
 | SVM | – | – | – |
 
+---
+
 ### Comentário Final
 
 O estudo permitiu comparar o desempenho de diferentes abordagens supervisionadas e não supervisionadas na previsão de inadimplência. 
