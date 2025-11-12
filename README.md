@@ -34,7 +34,7 @@ De acordo com o organizador do dataset, a melhor ferramenta comercial disponíve
 
 | Variável | Descrição | Tipo |
 |-----------|------------|------|
-| **SeriousDlqin2yrs** | Pessoa apresentou inadimplência grave (≥ 90 dias de atraso) dentro dos dois anos seguintes | Binária (0 = não, 1 = sim); probabilidade (teste) |
+| **SeriousDlqin2yrs** | Pessoa apresentou inadimplência grave (≥ 90 dias de atraso) dentro dos dois anos seguintes | 0 = não, 1 = sim (treino); probabilidade (teste). |
 | **RevolvingUtilizationOfUnsecuredLines** | Saldo total em cartões de crédito e linhas de crédito pessoais (exceto dívidas imobiliárias) dividido pelo limite total de crédito | Percentual |
 | **age** | Idade do tomador (em anos) | Inteiro |
 | **NumberOfTime30-59DaysPastDueNotWorse** | Número de vezes que o cliente teve atraso de 30–59 dias, mas não pior, nos últimos 2 anos | Inteiro |
