@@ -70,7 +70,7 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 
 ### Estrutura do Projeto
 
-- **Notebooks análise exploratória** : análise exploratória de dados, com visualizações de distribuições e correlações entre variáveis.
+- **Notebooks de análise exploratória** : análise exploratória de dados, com visualizações de distribuições e correlações entre variáveis.
    - **`all_data_complete:`** [visualização no Colab](https://colab.research.google.com/drive/10szDpCCD9Tiy5opm9mP-KCuLaI67ch7o?usp=sharing)  
    - **`all_data_original:`** [visualização no Colab](https://colab.research.google.com/drive/1_2ZZcQHG5zvRbtYmCamT3A9JaPmjAimm?usp=sharing)   
 - **Notebook 2** - [l]: tratamento de valores ausentes - imputação com **GAN** para as variáveis de renda.  
