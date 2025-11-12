@@ -118,5 +118,5 @@ Os métodos **não supervisionados** forneceram representações úteis e intuit
 Os métodos de **árvores** ...
 Os modelos de **regressão** ... 
 
-O modelo X obteve maior AUC quando avaliado em conjunto de validação, isso ... . O modelo X obteve menor MAE quando comparado com as probabilidades do conjunto de teste ... . Se quisessemos um modelo que tivesse um desempenho semelhante ao que gerou as probabilidades do conjunto de teste, usariamos ... . Por outro lado, se quisessemos minimizar em préstimos a indivíduos com grandes chances de se tornar inandimplentes, mesmo a custas de índividuos com baixo risco não  receberem empréstimos, usariamos ... . 
+O modelo X obteve maior AUC quando avaliado em conjunto de validação, isso ... . O modelo X obteve menor MAE quando comparado com as probabilidades do conjunto de teste ... . Se quisessemos um modelo que tivesse um desempenho semelhante ao que gerou as probabilidades do conjunto de teste, usariamos ... . Por outro lado, se quisessemos minimizar empréstimos a indivíduos com grandes chances de se tornar inandimplentes, mesmo a custas de índividuos com baixo risco não  receberem empréstimos, usariamos ... . 
 
