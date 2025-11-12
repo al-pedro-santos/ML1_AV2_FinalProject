@@ -113,7 +113,10 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 ### Comentário Final
 
 O estudo permitiu comparar o desempenho de diferentes abordagens supervisionadas e não supervisionadas na previsão de inadimplência. 
-O modelo X obteve maior AUC quando avaliado em conjunto de validação, isso ... . O modelo X obteve menor MAE quando comparado com as probabilidades do conjunto de teste ... .
 
-Os métodos **não supervisionados** forneceram representações úteis e intuitivas para estimação de risco em contextos sem rótulos binários explícitos.  
+Os métodos **não supervisionados** forneceram representações úteis e intuitivas para estimação de risco em contextos sem rótulos binários explícitos (isolation forest), além de fornecer insights sobre os diferentes perfis de clientes.  
 Os métodos de **árvores** ...
+Os modelos de **regressão** ... 
+
+O modelo X obteve maior AUC quando avaliado em conjunto de validação, isso ... . O modelo X obteve menor MAE quando comparado com as probabilidades do conjunto de teste ... . Se quisessemos um modelo que tivesse um desempenho semelhante ao que gerou as probabilidades do conjunto de teste, usariamos ... . Por outro lado, se quisessemos minimizar em préstimos a indivíduos com grandes chances de se tornar inandimplentes, mesmo a custas de índividuos com baixo risco não  receberem empréstimos, usariamos ... . 
+
