@@ -18,13 +18,6 @@ O objetivo foi aplicar diferentes métodos supervisionados e não supervisionado
 
 ---
 
-### Análise Exploratória de Dados
-
-- **`all_data_complete:`** [visualização no Colab](https://colab.research.google.com/drive/10szDpCCD9Tiy5opm9mP-KCuLaI67ch7o?usp=sharing)  
-- **`all_data_original:`** [visualização no Colab](https://colab.research.google.com/drive/1_2ZZcQHG5zvRbtYmCamT3A9JaPmjAimm?usp=sharing)
-
----
-
 ### Fonte dos Dados
 
 Os dados foram obtidos do **dataset _Give Me Some Credit_** disponível no [Kaggle](https://www.kaggle.com/competitions/GiveMeSomeCredit).  
@@ -77,7 +70,9 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 
 ### Estrutura do Projeto
 
-- **Notebook 1** - [link]: análise exploratória de dados, com visualizações de distribuições e correlações entre variáveis.  
+- **Notebooks análise exploratória** : análise exploratória de dados, com visualizações de distribuições e correlações entre variáveis.
+   - **`all_data_complete:`** [visualização no Colab](https://colab.research.google.com/drive/10szDpCCD9Tiy5opm9mP-KCuLaI67ch7o?usp=sharing)  
+   - **`all_data_original:`** [visualização no Colab](https://colab.research.google.com/drive/1_2ZZcQHG5zvRbtYmCamT3A9JaPmjAimm?usp=sharing)   
 - **Notebook 2** - [l]: tratamento de valores ausentes - imputação com **GAN** para as variáveis de renda.  
 - **Notebook 3** - [l]: implementação de dois modelos de **regressão probabilística**: **Logit** e **Probit**.  
 - **Notebook 4** - [l]: análise da variável *número de dependentes* e avaliação de padrões por meio de **LDA, QDA e SVM **.  
