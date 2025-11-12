@@ -75,7 +75,7 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
    - **`all_data_original:`** [visualização no Colab](https://colab.research.google.com/drive/1_2ZZcQHG5zvRbtYmCamT3A9JaPmjAimm?usp=sharing)   
 - **Notebook 2** - [l]: tratamento de valores ausentes - imputação com **GAN** para a variável de renda.  
 - **Notebook 3**[]: implementação de dois modelos de **regressão probabilística**: **Logit** e **Probit**.  
-- (**Notebook 4**)[Notebook4_lda_qda_svm.ipynb]: análise da variável *número de dependentes* e avaliação de padrões por meio de **LDA, QDA e SVM**.  
+- [**Notebook 4**](Notebook4_lda_qda_svm.ipynb): análise da variável *número de dependentes* e avaliação de padrões por meio de **LDA, QDA e SVM**.  
 - [**Notebook 5**](https://github.com/al-pedro-santos/ML1_AV2_FinalProject/blob/ef3394e2debd4872ed1559fe5022209482188f3a/Notebook5_trees.ipynb): modelos baseados em **árvores de decisão**: *Histogram Gradient Boosting*, *Random Forest* e *Decision Tree* simples.  
 - [**Notebook 6**](https://github.com/al-pedro-santos/ML1_AV2_FinalProject/blob/e150cc0bbc027caadb95a49c42883d6bf517a43b/Notebook6_unsupervised.ipynb):métodos **não supervisionados**:  
   - *Isolation Forest* (usando a medida de anomalia como proxy para probabilidade de inadimplência);  
