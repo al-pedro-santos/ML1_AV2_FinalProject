@@ -71,7 +71,7 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 ### Estrutura do Projeto
 
 - [**Notebook 1**](https://colab.research.google.com/drive/10szDpCCD9Tiy5opm9mP-KCuLaI67ch7o?usp=sharing) : análise exploratória de dados, com visualizações de distribuições e correlações entre variáveis.
-- [**Notebook 2**](): tratamento de valores ausentes - imputação com **GAN** para a variável de renda.  
+- [**Notebook 2**](): tratamento de valores ausentes - imputação com **GAM** para a variável de renda.  
 - [**Notebook 3**](): implementação de dois modelos de **regressão probabilística**: **Logit** e **Probit**.  
 - [**Notebook 4**](Notebook4_lda_qda_svm.ipynb): análise da variável *número de dependentes* e avaliação de padrões por meio de **LDA, QDA e SVM**.  
 - [**Notebook 5**](https://github.com/al-pedro-santos/ML1_AV2_FinalProject/blob/ef3394e2debd4872ed1559fe5022209482188f3a/Notebook5_trees.ipynb): modelos baseados em **árvores de decisão**: *Histogram Gradient Boosting*, *Random Forest* e *Decision Tree* simples.  
