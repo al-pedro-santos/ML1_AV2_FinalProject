@@ -73,7 +73,7 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 - **Notebooks de análise exploratória** : análise exploratória de dados, com visualizações de distribuições e correlações entre variáveis.
    - **`all_data_complete:`** [visualização no Colab](https://colab.research.google.com/drive/10szDpCCD9Tiy5opm9mP-KCuLaI67ch7o?usp=sharing)  
    - **`all_data_original:`** [visualização no Colab](https://colab.research.google.com/drive/1_2ZZcQHG5zvRbtYmCamT3A9JaPmjAimm?usp=sharing)   
-- **Notebook 2** - [l]: tratamento de valores ausentes - imputação com **GAN** para as variáveis de renda.  
+- **Notebook 2** - [l]: tratamento de valores ausentes - imputação com **GAN** para a variável de renda.  
 - **Notebook 3** - [l]: implementação de dois modelos de **regressão probabilística**: **Logit** e **Probit**.  
 - **Notebook 4** - [l]: análise da variável *número de dependentes* e avaliação de padrões por meio de **LDA, QDA e SVM **.  
 - [**Notebook 5**](https://github.com/al-pedro-santos/ML1_AV2_FinalProject/blob/ef3394e2debd4872ed1559fe5022209482188f3a/Notebook5_trees.ipynb): modelos baseados em **árvores de decisão**: *Histogram Gradient Boosting*, *Random Forest* e *Decision Tree* simples.  
