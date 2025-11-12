@@ -80,7 +80,7 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 - **Notebook 1** - [link]: análise exploratória de dados, com visualizações de distribuições e correlações entre variáveis.  
 - **Notebook 2** - [l]: tratamento de valores ausentes - imputação com **GAN** para as variáveis de renda.  
 - **Notebook 3** - [l]: implementação de dois modelos de **regressão probabilística**: **Logit** e **Probit**.  
-- **Notebook 4** - [l]: análise da variável *número de dependentes* e avaliação de padrões por meio de **LDA** (Linear Discriminant Analysis).  
+- **Notebook 4** - [l]: análise da variável *número de dependentes* e avaliação de padrões por meio de **LDA, QDA e SVM **.  
 - **Notebook 5** - [l]: modelos baseados em **árvores de decisão**: *Histogram Gradient Boosting*, *Random Forest* e *Decision Tree* simples.  
 - **Notebook 6** - [l]:métodos **não supervisionados**:  
   - *Isolation Forest* (usando a medida de anomalia como proxy para probabilidade de inadimplência);  
@@ -104,6 +104,14 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 | Histogram GB | – | – | – |
 
 ---
+
+#### Resultados - clássificação dependentes
+
+| Modelo | aaa | aaa | aaaa |
+|:--|:--:|:--:|:--:|
+| LDA | – | – | – |
+| QDA | – | – | – |
+| SVM | – | – | – |
 
 ### Comentário Final
 
