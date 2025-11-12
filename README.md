@@ -81,7 +81,7 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 - **Notebook 2** - [l]: tratamento de valores ausentes - imputação com **GAN** para as variáveis de renda.  
 - **Notebook 3** - [l]: implementação de dois modelos de **regressão probabilística**: **Logit** e **Probit**.  
 - **Notebook 4** - [l]: análise da variável *número de dependentes* e avaliação de padrões por meio de **LDA, QDA e SVM **.  
-- **Notebook 5** - [l]: modelos baseados em **árvores de decisão**: *Histogram Gradient Boosting*, *Random Forest* e *Decision Tree* simples.  
+- [**Notebook 5**](https://github.com/al-pedro-santos/ML1_AV2_FinalProject/blob/ef3394e2debd4872ed1559fe5022209482188f3a/Notebook5_trees.ipynb): modelos baseados em **árvores de decisão**: *Histogram Gradient Boosting*, *Random Forest* e *Decision Tree* simples.  
 - [**Notebook 6**](https://github.com/al-pedro-santos/ML1_AV2_FinalProject/blob/e150cc0bbc027caadb95a49c42883d6bf517a43b/Notebook6_unsupervised.ipynb):métodos **não supervisionados**:  
   - *Isolation Forest* (usando a medida de anomalia como proxy para probabilidade de inadimplência);  
   - *Gaussian Mixture Model* (usando a representação latente como entrada para modelos Logit e Probit).
@@ -94,14 +94,14 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 |:--|:--:|:--:|:--:|
 | Logit | – | – | – |
 | Logit GM(4) | 0.040390 | 0.004460 | 0.7640 |
-| Logit GM(7) | 0.03878 | 0.004156 | 0.7646 |
+| Logit GM(7) | 0.038780 | 0.004156 | 0.7646 |
 | Probit | – | – | – |
 | Probit GM(4) | 0.040390 | 0.004461 | 0.7640 |
-| Probit GM(7) | 0.038759 | 0.004155 | 0.7648 |
+| Probit GM(7) | **0.038759** | **0.004155** | 0.7648 |
 | Isolation Forest | 0.094175| 0.015732 | 0.7860 |
-| Decision Tree | – | – | – |
-| Random Forest | – | – | – |
-| Histogram GB | – | – | – |
+| Decision Tree | 0.263811 | 0.103721 |  |
+| Random Forest | 0.230091 | 0.076918 | **0.8619** |
+| Histogram GB | 0.039583 | 0.005881 | 0.8232 |
 
 ---
 
