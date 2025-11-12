@@ -24,7 +24,7 @@ Os dados foram obtidos do **dataset _Give Me Some Credit_** disponível no [Kagg
 A proposta original da competição era:
 
 > **Algoritmos de _credit scoring_** estimam a probabilidade de inadimplência e são utilizados por bancos para decidir se um empréstimo deve ser concedido.  
-> O desafio consistia em melhorar o desempenho dos modelos de _credit scoring_, prevendo a probabilidade de que uma pessoa enfrente **dificuldades financeiras nos dois anos seguintes**.
+> O desafio consiste em melhorar o desempenho dos modelos de _credit scoring_, prevendo a probabilidade de que uma pessoa enfrente **dificuldades financeiras nos dois anos seguintes**.
 
 De acordo com o organizador do dataset, a melhor ferramenta comercial disponível à época alcançava um **AUC de 0.865**. No conjunto de teste fornecido pela competição há **probabilidades de baseline** para comparação.
 
