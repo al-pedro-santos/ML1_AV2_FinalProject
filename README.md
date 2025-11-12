@@ -93,16 +93,15 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 | Modelo | MAE (teste) | MSE (teste) | AUC (validação) |
 |:--|:--:|:--:|:--:|
 | Logit | – | – | – |
-| Logit (GM(4)) | – | – | – |
+| Logit GM(4) | – | – | – |
 | Logit GM(7) | – | – | – |
 | Probit | – | – | – |
-| Probit (GM(4)) | – | – | – |
-| Probit (GM(7)) | – | – | – |
+| Probit GM(4) | – | – | – |
+| Probit GM(7) | – | – | – |
 | Isolation Forest | – | – | – |
 | Decision Tree | – | – | – |
 | Random Forest | – | – | – |
 | Histogram GB | – | – | – |
-|  | – | – | – |
 
 ---
 
