@@ -78,7 +78,7 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 ### Estrutura do Projeto
 
 - **Notebook 1** - [link]: análise exploratória de dados, com visualizações de distribuições e correlações entre variáveis.  
-- **Notebook 2** - [l]: tratamento de valores ausentes, incluindo imputação com **GAN** para as variáveis de renda.  
+- **Notebook 2** - [l]: tratamento de valores ausentes - imputação com **GAN** para as variáveis de renda.  
 - **Notebook 3** - [l]: implementação de dois modelos de **regressão probabilística**: **Logit** e **Probit**.  
 - **Notebook 4** - [l]: análise da variável *número de dependentes* e avaliação de padrões por meio de **LDA** (Linear Discriminant Analysis).  
 - **Notebook 5** - [l]: modelos baseados em **árvores de decisão**: *Histogram Gradient Boosting*, *Random Forest* e *Decision Tree* simples.  
