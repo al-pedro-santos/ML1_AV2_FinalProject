@@ -70,9 +70,7 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 
 ### Estrutura do Projeto
 
-- **Notebooks 1.1 e 1.2** : análise exploratória de dados, com visualizações de distribuições e correlações entre variáveis.
-   - **`all_data_complete:`** [visualização no Colab](https://colab.research.google.com/drive/10szDpCCD9Tiy5opm9mP-KCuLaI67ch7o?usp=sharing)  
-   - **`all_data_original:`** [visualização no Colab](https://colab.research.google.com/drive/1_2ZZcQHG5zvRbtYmCamT3A9JaPmjAimm?usp=sharing)   
+- [**Notebooks 1**](https://colab.research.google.com/drive/10szDpCCD9Tiy5opm9mP-KCuLaI67ch7o?usp=sharing) : análise exploratória de dados, com visualizações de distribuições e correlações entre variáveis.
 - [**Notebook 2**](): tratamento de valores ausentes - imputação com **GAN** para a variável de renda.  
 - [**Notebook 3**](): implementação de dois modelos de **regressão probabilística**: **Logit** e **Probit**.  
 - [**Notebook 4**](Notebook4_lda_qda_svm.ipynb): análise da variável *número de dependentes* e avaliação de padrões por meio de **LDA, QDA e SVM**.  
