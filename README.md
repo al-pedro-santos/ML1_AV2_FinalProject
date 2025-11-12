@@ -90,7 +90,7 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 
 ### Resultados
 
-| Modelo | MAE (teste) | MSE (teste) | Corr |  AUC (validação) |
+| Modelo | MAE (teste) | MSE (teste) | Corr (teste) |  AUC (validação) |
 |:--|:--:|:--:|:--:|:--:|
 | Logit | – | – | – |– |
 | Logit GM(4) | 0.040390 | 0.004460 | 0.797694 | 0.7640 |
