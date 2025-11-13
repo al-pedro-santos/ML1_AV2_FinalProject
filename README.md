@@ -83,12 +83,12 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 
 | Modelo | MAE (teste) | MSE (teste) | Corr (teste) |  AUC (validação) |
 |:--|:--:|:--:|:--:|:--:|
-| Logit | 0.035420 | 0.003462 | 0.8541 |– |
+| Logit | **0.035420** | 0.003462 | 0.8541 |– |
 | Logit GM(4) | 0.040390 | 0.004460 | 0.797694 | 0.7640 |
 | Logit GM(7) | 0.038780 | 0.004156 | 0.813338 | 0.7646 |
-| Probit | 0.035527 | 0.003501 | 0.848085 |– |
+| Probit | 0.035527 | **0.003501** | 0.848085 |– |
 | Probit GM(4) | 0.040390 | 0.004461 | 0.797665 | 0.7640 |
-| Probit GM(7) | **0.038759** | **0.004155** | 0.813527 | 0.7648 |
+| Probit GM(7) | 0.038759 | 0.004155 | 0.813527 | 0.7648 |
 | Isolation Forest | 0.094175| 0.015732 |0.727324 | 0.7860 |
 | Decision Tree | 0.263811 | 0.103721 | 0.7999 | 0.8492 |
 | Random Forest | 0.230091 | 0.076918 | **0.8604** | **0.8619** |
@@ -107,12 +107,7 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 
 ---
 
-### Comentário Final.003462	0.035420	0.854183
-
-
-probit:
-0.003501	0.035527	0.848085
-
+### Comentário Final
 
 O estudo permitiu comparar o desempenho de diferentes abordagens supervisionadas e não supervisionadas na previsão de inadimplência. 
 
