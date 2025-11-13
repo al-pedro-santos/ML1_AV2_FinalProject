@@ -111,8 +111,8 @@ Ao final de cada notebook, os resultados dos modelos utilizados foram comparados
 O estudo permitiu comparar o desempenho de diferentes abordagens supervisionadas e não supervisionadas na previsão de inadimplência. 
 
 Os métodos **não supervisionados** forneceram representações úteis e intuitivas para estimação de risco em contextos sem rótulos binários explícitos (isolation forest), além de fornecer insights sobre os diferentes perfis de clientes.  
-Os métodos de **árvores** ...
-Os modelos de **regressão** ... 
+Os métodos de **árvores** capturaram bem relações não lineares e interações entre variáveis, oferecendo alto poder discriminativo entre bons e maus pagadores. Em particular, o Random Forest apresentou a maior AUC e correlação com o baseline, ainda que com probabilidades menos calibradas.
+Os modelos de **regressão** (Logit e Probit) obtiveram os menores valores de MAE/MSE em relação às probabilidades do conjunto de teste, aproximando-se mais do modelo de referência da competição. Além disso, fornecem coeficientes interpretáveis, facilitando a compreensão do efeito de cada variável no risco de inadimplência. 
 
-O modelo X obteve maior AUC quando avaliado em conjunto de validação, isso ... . O modelo X obteve menor MAE quando comparado com as probabilidades do conjunto de teste ... . Se quisessemos um modelo que tivesse um desempenho semelhante ao que gerou as probabilidades do conjunto de teste, usariamos ... . Por outro lado, se quisessemos minimizar empréstimos a indivíduos com grandes chances de se tornar inandimplentes, mesmo a custas de índividuos com baixo risco não  receberem empréstimos, usariamos ... . 
+O modelo Random Forest obteve maior AUC quando avaliado em conjunto de validação, tendo o valor de 0.8619, rivalizando com o AUC obtido pela melhor ferramenta comercial da época (0.865). O modelo Logit obteve menor MAE quando comparado com as probabilidades do conjunto de teste (0.035420). Se quisessemos um modelo que tivesse um desempenho semelhante ao que gerou as probabilidades do conjunto de teste, usariamos Logit. Por outro lado, se quisessemos minimizar empréstimos a indivíduos com grandes chances de se tornar inandimplentes, mesmo a custas de índividuos com baixo risco não  receberem empréstimos, usariamos Random Forest. 
 
