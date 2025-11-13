@@ -7,8 +7,7 @@ O objetivo foi aplicar diferentes métodos supervisionados e não supervisionado
 
 ### Integrantes
 
-- Bruno Pereira de Paula  
-- Isabelli Cristhini da Silva  
+- Bruno Pereira de Paula 
 - Marcos Abílio Esmeraldo Melo  
 - Pedro Henrique Barbosa da Silva  
 - Pedro Henrique dos Reis Porto  
